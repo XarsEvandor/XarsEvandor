@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @XarsEvandor. I am a software engineer that studied in the American College of Thessaloniki.
-- 👀 I’m interested in learning and applying myself on as much knowledge around Cs as possible.
-- 🌱 I’m learned in python, c++, PHP, java, arduino C, oracle sql and Pl/sql.
-- 💞️ I’m looking to collaborate on anything that might prove useful towards expanding my knowledge on Cs.
-- 📫 Feel free to drop me an e-mail at: giorgos_katsonis@hotmail.com
+🚀 Software Engineer | Biomedical Innovator | ML Enthusiast | Valedictorian 2023
+🔍 Deep diving into generative modeling & neural rehabilitation tech
+🧠 Expertise in GANs, Convolutional NNs, LSTMs & Perceptrons
+🔬 Published researcher with a knack for bridging tech & medicine
+🌐 GDSC Lead @ Google | Ex-AUTH & Namatho
+🔧 Fluent in Python, Java, C/C++, and more
+🤝 Let's collaborate and push the boundaries of tech & health!
+🔗 LinkedIn: GeorgeKatsonis
